@@ -1,0 +1,7 @@
+"{context}"
+
+To extract details from the above paragraph, please identify the Node Content, which is the full description of the node content. Second, determine the Type of New Node, from retrieve or answer or question. Lastly, locate the "Based on", which specifies the nodes the new node is built upon. Please strictly stick to the following format: 
+[Node content]: **The node content** 
+[Type of New Node]: **stop, answer, retrieval or question**
+[Based on]: **list of nodes**
+Do not add any explanations, apologies, any additional labels or prefixes. 

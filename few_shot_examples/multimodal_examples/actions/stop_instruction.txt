@@ -1,0 +1,7 @@
+Instruction: 
+Stop: when the answer to question Q0 is already found given the current nodes.
+
+Example: 
+[Node content]: The final answer is found.
+[Type of New Node]: Stop
+[Based on]: ['Q0', 'E0', 'E1', 'Q2, 'A3']

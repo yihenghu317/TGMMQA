@@ -1,0 +1,8 @@
+Instruction: 
+Answer: to produce the instruction to generate an answer based on an existing question and other node.
+
+Example: 
+[Node content]: Compare and see if the publisher of the book in E3 is the same one with the book in E4. 
+[Type of New Node]: Answer
+[Based on]: [E1', 'A0', 'Q1', 'E3', 'E4']
+

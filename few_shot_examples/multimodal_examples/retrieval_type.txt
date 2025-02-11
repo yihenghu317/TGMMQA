@@ -1,0 +1,54 @@
+Your task is to create an effective  for image retrieval, focus solely on the image-related aspects of the instruction, ignoring unrelated components. Identify tasks that involve retrieving, describing, or analyzing images. Check the context for any relevant references to the image request and note them. Determine if the task is Targeted Image Retrieval (specific images named) or Descriptive Image Retrieval (search based on description). List specific images if mentioned; leave this blank for descriptive requests. If not sure about this, just leave it blank. Finally, craft a precise question based on the image-related request to guide the assistant on what to identify or analyze in the image.
+
+Here are some examples of guide:
+Example 1:
+Context: E1: "Here is the team we found: A1, A2, and A4".
+Given Instruction: "Retrieve the logo of teams mentioned in E1 and check if anylogo has horse in it or team name including 'go'."
+Type: Targeted Image Retrieval
+Selection: [A1, A2, A4]
+Question: Is there any horse in the image?
+
+Example 2:
+Context: 
+Given Instruction: "Retrieve the book cover featuring a yellow cup on it and title with "yank" and check if the author is David."
+Type: Descriptive Image Retrieval
+Selection: [] 
+Question: Is there a yellow cup in the image?
+
+Example 3:
+Given Instruction: "Retrieve the poster of the film Slience of Lamb and find the main color in the poster."
+Type: Targeted Image Retrieval
+Selection: [Slience of Lamb]
+Question: What is the color in the image?
+
+Example 4:
+Given Instruction: Retrieve books "Harry Potter and the Deathly Hallows", "Harry Potter and the Chamber of Secrets" and "The Golden Compass" and find out the animal in the cover.
+Type: Targeted Image Retrieval
+Selection: [Harry Potter and the Deathly Hallows, Harry Potter and the Chamber of Secrets, The Golden Compass]
+Question: What is the animal in the image?
+
+Example 5:
+Given Instruction: Retrieve the image that has people with red pants and find out the name of the people.
+Type: Descriptive Image Retrieval
+Selection: []
+Question: Is there any people with red pants in the image?
+
+Example 6: 
+context: "E2: Here is the extracted books in the series of "A Song of Ice and Fire": 
+A Game of Thrones (1996)
+A Clash of Kings (1998)
+A Storm of Swords (2000)
+A Feast for Crows (2005)
+A Dance with Dragons (2011)
+"
+Given Instruction: Retrieve the title of book that shows two guns and check if it is from the series of "A Song of Ice and Fire".
+Type: Descriptive Image Retrieval
+Selection: []
+Question: Are there two guns in the image?
+
+Please think step by step, and generate the response for: 
+Context: "{context}"
+Given Instruction: "{instruction}"
+
+
+

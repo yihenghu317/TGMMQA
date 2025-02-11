@@ -1,0 +1,29 @@
+Your task is to extract keywords from the given content that help for retrieval. In your answer, please strictly only include the keyword lists and do not include any explanation or apologies. 
+
+Here are some examples: 
+
+Example 1: 
+Question: Retrieve the name of NHL team has a logo featuring a wheel and tire and played against the Pittsburgh Penguins in the playoff series.
+Triplets: [['name of NHL team', 'has', 'logo featuring a wheel and tire'],['name of NHL team', 'play', 'against the Pittsburgh Penguins in the playoff series']]
+
+Example 2: 
+Question:  What 1977 Seattle Seahawks Kingdome regular season opponent has the most Super Bowl losses in NFL history?
+Triplets: [['1977 Seattle Seahawks Kingdome regular season opponent', 'losses', 'Super Bowl in NFL history']]
+
+Example 3: 
+Question: What is the title of movie a poster featuring a man holding a baby?
+Triplets: [['title of movie', 'with', 'a poster featuring a man holding a baby']]
+
+Example 4: 
+Question: Retrieve the name of Magazine that had Caroline Miller as Editor in Chief.
+Triplets: [['magazine', 'have', 'Caroline Miller as Editor in Chief']]
+
+Example 5: 
+Question: Retrieve the name of song writer who wrote the lyrics to the song performed in episode 3 of season 1 of The Clash on July 14.
+Triplets: [['song write', 'wrote', 'lyrics to the song performed in episode 3 of season 1 of The Clash on July 14']]
+
+
+
+Now please extract triplets from the following question: 
+Question: {question}
+Triplets:

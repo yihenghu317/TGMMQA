@@ -1,0 +1,21 @@
+
+## Instruction ##
+Your task is to analyze the input and check if any part of it is related to any part of instruction: "{description}". 
+1. If none of the content is even slightly related, respond with "no" and provide a brief explanation of why it does not match. 
+## example ##
+Response: Not relevant.
+
+2. If any part of the text is roughly related to the instruction, extract all the relevant information. Do not miss any details. Please mostly use the original words. 
+## example ##
+Relevant information:
+
+3. If anything from the instruction appears in the text, you must extract it as well, even if the instruction doesn't explicitly ask for that keyword to be retrieved. Present them clearly. Do not add extra explanations, and if you're unsure about relevance, include the information in your response.
+## example ##
+Potential relevant information:
+
+## Input ##
+Title: {title}
+Text: 
+{text}
+
+

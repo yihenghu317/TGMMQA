@@ -1,0 +1,6 @@
+Given the following information:
+{context}
+
+Think step by step and generate the final answer for the question at the last line:
+"Was Battlefield Earth or title that shows two guys riding surfboards on cover earlier Marques Houston film?"? 
+The answer should be short and concise.

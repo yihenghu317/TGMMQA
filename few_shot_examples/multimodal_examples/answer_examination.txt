@@ -1,0 +1,10 @@
+Given the following title, subquestion, and answer derived from an image:
+
+Title of image: {title}
+Subquestion: {question}
+Answer: {answer}
+
+Firstly identify whether the provided material is served as a correct evidenece to the original question.
+Then rephrase the provided subquestion and answer into a standalone description that clearly conveys what is happening, without relying on the subquestion. Ensure that the description is clear enough to understand without the given image/content. Please strictly stick to the following format and do not include any explanation or apologies.
+[Valid Evidence?]:
+[Description]:

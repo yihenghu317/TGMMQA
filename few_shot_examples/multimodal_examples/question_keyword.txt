@@ -1,0 +1,37 @@
+Your task is to extract a list of keywords from the given content. The keywords should be helpful for retrieval. You can eliminate some irrelevant things from the given content.
+In your answer, please strictly only include the list of keywords and do not include any explanation or apologies. 
+
+Here are some examples: 
+
+Example 1: 
+Question: Retrieve the NHL team along with the image of its logo, find the one with a logo features a wheel and has played against the Pittsburgh Penguins in the playoff series.
+Triplets:["NHL team with logo featuring a wheel and tire", "NHL team played against the Pittsburgh Penguins in the playoff series"]
+
+Example 2: 
+Question:  What 1977 Seattle Seahawks Kingdome regular season opponent has the most Super Bowl losses in NFL history?
+Triplets: ["1977 Seattle Seahawks Kingdome regular season opponent losses Super Bowl in NFL history"]
+
+Example 3: 
+Question: Is there a man holding a baby in the image?
+Triplets: ["a man holding a baby"]
+
+Example 4:  
+Question: Retrieve the Magazine that had Caroline Miller as Editor in Chief and the year it won a National Magazine Award.
+Triplets: ["magine had Caroline Miller as Editor in Chief", "magazine won a National Magazine Award"]
+
+Example 5: 
+Question: Retrieve the song writer who wrote the lyrics to the song performed in episode 3 of season 1 of The Clash on July 14.
+Triplets: ["wrote the lyrics to the song performed in episode 3 of season 1 of The Clash on July 14"]
+
+Example 6: 
+Question: Retrieve the color of the dome tops of the tower in the top left image of this collage of Moscow.
+Triplets: ["color of the dome tops of the tower in the top left"]
+
+Example 7: 
+Question: Is there any circular yellow patterns on a green checkered background in the image?
+Triplets: ['circular yellow patterns on a green checkered background']
+
+
+Now please extract triplets from the following question: 
+Question: {question}
+Triplets:

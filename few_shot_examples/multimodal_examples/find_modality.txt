@@ -1,0 +1,4 @@
+Given 
+description: "{text}" 
+Identify the modality we are searching. Think step by step and choose from image or text or both. put your choice in the following format in the last line in your response. 
+[Modality]

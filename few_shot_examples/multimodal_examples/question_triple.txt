@@ -1,0 +1,24 @@
+Your task is to transform the given given into a semantic graph in the form of a list of triples that help to find the result. In your answer, please strictly only include the triples and do not include any explanation or apologies. For entities that need to find specific answer, please display them as <what entity> or <which entity>. For question with how many entities, represent by #entites. For close-ended question asking yes or no, represent by <=? entity>.
+
+The triples should be able to form a reasoning path that could lead to the correct answer. 
+
+Here are some examples: 
+
+Example 1: 
+Question: What is Jeff Gordon about to autograph?
+Triplets: [['Jeff Gordon', 'autograph','<what>']]
+
+Example 2: 
+Question: Of the movies that were made available on home video in 1980, which studio released the movie whose poster features a flower?
+Triplets: [['<which movies>', 'made available in 1980', 'home video'], ['<which movies>', 'of', '<which studios>'], ['<which studio>', 'release', 'poster features a flower']]
+
+Example 3: 
+Question: How many nascar wins does the driver with 2,257 (–1,825) points at the 2015 AAA Texas 500 have?
+Triplets: [['<driver>', 'with', '2,257 (–1,825) points at the 2015 AAA Texas 500'],['<driver>','have','<#nascar wins>']]
+
+Example 4: 
+Question: Did the team that played the Pittsburgh Penguins in the 2011 and 2016 NHL playoffs ever win a stanley cup?
+Triplets: [['<team>', 'played', 'Pittsburgh Penguins in the 2011 and 2016 NHL playoffs'], ['<=? team>', 'win', ' a stanley cup']]
+
+Now please extract triplets from the following question: 
+Question: {question}

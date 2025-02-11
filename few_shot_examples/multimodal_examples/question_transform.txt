@@ -1,0 +1,28 @@
+You are working with another assistant that can only answer simple questions based on a given image. Your task is to identify the part specially asking about image modality and transform it into a specific question. If you are validating whether an image matches a specific criterion, please provide an expected answer. For instance, if you want to determine if the image contains a red car, your question might be, 'Does the image contain a red car?'. The answer may include 'yes' or 'no'. Note The expected answer should be 'yes' so that the answer matches the expected response, and it confirms that the image is the one you are looking for.
+
+Note that the transformed question and expected answer should be simple enough for the assistant to understand while mostly retaining the original content. And you only need to provide expected answer for closed-ended question. Please think step by step.
+
+Question: {input_question}
+Transformed Question:
+Expected Answer:
+
+Here are some examples: 
+Example 1 
+Question: retrieve the name of the team whose logo does not have a bird on it.
+Transformed Question: Is there a brid on the logo in the image?
+Expected Answer: No
+
+Example 2
+Question: Retrieve the movie the Lamb and find out the color of the glove in the poster.
+Transformed Question: what is the color of the glove in the image?
+Expected Answer: ?
+
+Example 3: 
+Question: Retrieve the cover art of book "Sherlock" and find out the pose of people in the cover.
+Transformed Question: What is the pose of people in the image?
+Expected Answer: ?
+
+Example 4:
+Question: Retrieve the logo of team A1 to check if it has tiger in it.
+Transformed Question: Is there tiger in the image?
+Expected Answer: Yes

@@ -1,0 +1,18 @@
+## Instruction ## 
+Your task is to infer all valid answers to the provided multi-hop question using the given reasoning graph by thinking step by step. Ensure to consider all possible interpretations and connections within the evidence. Note that The question itself may have slight variations in expression. Do not focus on details that are not essential to the question.
+
+If a direct answer is unavailable, attempt to link the evidence and present any relevant information as the answer.
+
+Finally, convert the question and the answer into a valid description.
+
+
+## Format ## 
+Interpretations: 
+Connections:
+Answer:
+Rephrase: 
+
+
+## Input ##
+Given reasoning graph: "{nodes}"
+Question: "{instruction}"

@@ -1,0 +1,6 @@
+This is the retrieval instruction and result:
+Instruction: "{description}".
+Retrieval result from the {modality} of title {title}: "{text}".
+
+Since the goal is to retrieve information according to instruction, please extract only the relevant information from the result and rephrase into valid description as the corresponding answer to the instruction for later analysis. Do not include any other thing, or explanations or apologies.
+

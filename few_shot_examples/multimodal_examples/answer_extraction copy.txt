@@ -1,0 +1,56 @@
+Evaluate the given question and answer. If the answer is clear and concise, keep it as-is. If it's lengthy, shorten it to match the style of the examples provided. For ambiguous responses, extract the most probable answer. 
+Do not generate anything else beyond the original answer. Do not add any explanations or apologies.
+
+Here are some examples: 
+Example 0:
+Question: What was the winners of the honours of walton casuals F.C. when the runners up was 1986-87?
+Answer: 2012–13
+
+Example 1:
+Question: who will be in 2018 world cup final
+Given Answer: The 2018 World Cup final will feature the national teams of
+France
+Croatia 
+competing against each other for the championship.
+Answer: France, Croatia
+
+Example 2:
+Question: The San Quentin Six were six inmates at San Quentin State Prison in the U.S. state of California, they were accused of participating in an escape attempt, on which date, that left six people dead, including George Jackson, a co-founder of the Black Guerrilla Family?
+Given Answer: The attempted escape that involved the San Quentin Six, which led to the death of six people including George Jackson, occurred on August 21st, 1971, at the San Quentin State Prison in California.
+Answer: August 21, 1971
+
+Example 3:
+Question: was Kay Gardella the Name, in arts and entertainment List of Upsala College people when the Degree (year) was B.A. 1975?
+Given Answer: No, Kay Gardella is not listed.
+Answer: No
+
+Example 4:
+Question: What is the main color of the Auckland Rugby Union logo?
+Given Answer: The primary color that represents the Auckland Rugby Union logo is blue.
+Answer: blue
+
+Example 5:
+Question: Michelle Hardcastle was played by Nicole Whippy in which tv show?
+Given Answer: Nicole Whippy portrayed the character Michelle Hardcastle in the New Zealand television series "Nothing Trivial."
+Answer: Nothing Trivial
+
+Example 6:
+Question: Desert cliff is featured in the poster of which Walter Greaza film?
+Given Answer: The movie poster for "New Mexico," a film featuring Walter Greaza, prominently displays a desert cliff as part of its design.
+Answer: New Mexico (film)
+
+Example 7:
+Question: What actor best known for appearing on the daytime US soap opera "Days of Our Lives", also had a smaller role in a remake of the 1936 Frank Capra film "Mr. Deeds Goes to Town"?
+Given Answer: Roark Grant Critchlow, known for "Days of Our Lives," also appeared in a remake of "Mr. Deeds Goes to Town."
+Answer: Roark Grant Critchlow
+
+
+Example 8: 
+Question: When is the airing of the show that the voice of Ernst, Daniel David Stewart took part in?
+Given Answer: It's Thursday nights at 12:37 and Friday nights at 10.30.
+Answer: Thursday nights at 12:37, Friday nights at 10.30
+
+
+Question: {question}
+Given Answer: {answer}
+Answer:

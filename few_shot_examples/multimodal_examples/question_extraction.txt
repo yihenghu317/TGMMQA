@@ -1,0 +1,6 @@
+"{context}"
+
+In the given paragraph, please extract the subquestion. Additionally, please identify modality of this information: image or text. The generated response should follow this format: 
+"Question: 
+Modality:"
+Do not add any explanations, apologies, any additional labels or prefixes. 

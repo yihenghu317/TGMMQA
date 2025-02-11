@@ -1,0 +1,6 @@
+Given the context provided, clarify the given instruction. If the instruction does not reference the context, please do not change it at all. If it does reference the context, incorporate the specific details from the context into the instruction so that it is clear and understandable to others even without the context.
+
+Context: {context}
+Instruction: {instruction}
+Please think step by step about the context and generate the new instruction.
+Reconstructed instruction: 

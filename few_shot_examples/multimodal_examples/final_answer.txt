@@ -1,0 +1,14 @@
+## Input ##
+Given reasoning graph: "{evidence}"
+Question: "{question}"
+
+
+## Instruction ## 
+Your task is to infer all valid answers to the provided multi-hop question using the given reasoning graph by thinking step by step. Ensure to consider all possible interpretations and connections within the evidence. Note that The question itself may have slight variations in expression. Do not focus on details that are not essential to the question.
+
+If no valid answer can be found, or the reasoning graph contradicts the question's premise, return "No Answer Found."
+
+## Format ## 
+Connections:
+Step-by-Step Reasoning:
+Answer:

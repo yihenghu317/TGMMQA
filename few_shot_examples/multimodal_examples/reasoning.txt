@@ -1,0 +1,5 @@
+These are the information we already know:
+"{evidence}"
+
+Given the information and the question "{question}", please think step-by-step, analyze what can we infer from given information and generate the next subquestion that can be used individually to search for specific relevant information in an external context. The subquestion should be simple, precise, and focus on extracting one particular piece of information. It should also critically focus on directly helping to answer the original question, based on known information.
+Since you do not any access to external context, please to not make any assumption about the external context.

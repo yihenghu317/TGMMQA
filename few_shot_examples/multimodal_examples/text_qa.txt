@@ -1,0 +1,59 @@
+
+
+Example 0 :
+Question: In which year did the San Francisco 49ers move to their new stadium, which was the location that the Arizona Cardinals lost a 2013 regular season game by the score of 20 to 32?
+Context:
+In table of 2013 Arizona Cardinals season:
+In row0 : Week is 1, Date is September 8, Opponent is at St. Louis Rams, Result is L 24–27, Record is 0–1, Game site is Edward Jones Dome, NFL.com recap is [http://www.nfl.com/gamecenter/2013090810/2013/REG1/cardinals@rams Recap].
+In row1 : Week is 2, Date is September 15, Opponent is Detroit Lions, Result is W 25–21, Record is 1–1, Game site is University of Phoenix Stadium, NFL.com recap is [http://www.nfl.com/gamecenter/2013091509/2013/REG2/lions@cardinals Recap].
+In row2 : Week is 3, Date is September 22, Opponent is at New Orleans Saints, Result is L 7–31, Record is 1–2, Game site is Mercedes-Benz Superdome, NFL.com recap is [http://www.nfl.com/gamecenter/2013092207/2013/REG3/cardinals@saints Recap].
+In row3 : Week is 4, Date is September 29, Opponent is at Tampa Bay Buccaneers, Result is W 13–10, Record is 2–2, Game site is Raymond James Stadium, NFL.com recap is [http://www.nfl.com/gamecenter/2013092907/2013/REG4/cardinals@buccaneers Recap].
+In row4 : Week is 5, Date is October 6, Opponent is Carolina Panthers, Result is W 22–6, Record is 3–2, Game site is University of Phoenix Stadium, NFL.com recap is [http://www.nfl.com/gamecenter/2013100608/2013/REG5/panthers@cardinals Recap].
+In row5 : Week is 6, Date is October 13, Opponent is at San Francisco 49ers, Result is L 20–32, Record is 3–3, Game site is Candlestick Park, NFL.com recap is [http://www.nfl.com/gamecenter/2013101311/2013/REG6/cardinals@49ers Recap].
+In row6 : Week is 7, Date is Thursday (October 17), Opponent is Seattle Seahawks, Result is L 22–34, Record is 3–4, Game site is University of Phoenix Stadium, NFL.com recap is [http://www.nfl.com/gamecenter/2013101700/2013/REG7/seahawks@cardinals Recap].
+In row7 : Week is 8, Date is October 27, Opponent is Atlanta Falcons, Result is W 27–13, Record is 4–4, Game site is University of Phoenix Stadium, NFL.com recap is [http://www.nfl.com/gamecenter/2013102708/2013/REG8/falcons@cardinals Recap].
+In row8 : Week is 9, Date is Bye, Opponent is Bye, Result is Bye, Record is Bye, Game site is Bye, NFL.com recap is Bye.
+In row9 : Week is 10, Date is November 10, Opponent is Houston Texans, Result is W 27–24, Record is 5–4, Game site is University of Phoenix Stadium, NFL.com recap is [http://www.nfl.com/gamecenter/2013111009/2013/REG10/texans@cardinals Recap].
+In row10 : Week is 11, Date is November 17, Opponent is at Jacksonville Jaguars, Result is W 27–14, Record is 6–4, Game site is EverBank Field, NFL.com recap is [http://www.nfl.com/gamecenter/2013111704/2013/REG11/cardinals@jaguars Recap].
+In row11 : Week is 12, Date is November 24, Opponent is Indianapolis Colts, Result is W 40–11, Record is 7–4, Game site is University of Phoenix Stadium, NFL.com recap is [http://www.nfl.com/gamecenter/2013112408/2013/REG12/colts@cardinals Recap].
+In row12 : Week is 13, Date is December 1, Opponent is at Philadelphia Eagles, Result is L 21–24, Record is 7–5, Game site is Lincoln Financial Field, NFL.com recap is [http://www.nfl.com/gamecenter/2013120106/2013/REG13/cardinals@eagles Recap].
+In row13 : Week is 14, Date is December 8, Opponent is St. Louis Rams, Result is W 30–10, Record is 8–5, Game site is University of Phoenix Stadium, NFL.com recap is [http://www.nfl.com/gamecenter/2013120810/2013/REG14/rams@cardinals Recap].
+In row14 : Week is 15, Date is December 15, Opponent is at Tennessee Titans, Result is W 37–34, Record is 9–5, Game site is LP Field, NFL.com recap is [http://www.nfl.com/gamecenter/2013121509/2013/REG15/cardinals@titans Recap].
+In row15 : Week is 16, Date is December 22, Opponent is at Seattle Seahawks, Result is W 17–10, Record is 10–5, Game site is CenturyLink Field, NFL.com recap is [http://www.nfl.com/gamecenter/2013122211/2013/REG16/cardinals@seahawks Recap].
+In row16 : Week is 17, Date is December 29, Opponent is San Francisco 49ers, Result is L 20–23, Record is 10–6, Game site is University of Phoenix Stadium, NFL.com recap is [http://www.nfl.com/gamecenter/2013122912/2013/REG17/49ers@cardinals Recap].
+Table End.
+Candlestick Park was an outdoor sports and entertainment stadium in the West Coast of the United States, located in San Francisco, in the Bayview Heights area. The stadium was originally the home of Major League Baseball's San Francisco Giants, who played there from 1960 until moving into Pacific Bell Park (since renamed AT&T Park) in 2000. It was also the home field of the San Francisco 49ers of the National Football League from 1971 through 2013. The 49ers moved to Levi's Stadium in Santa Clara for the 2014 season.
+
+Answer: 1971
+
+
+
+Example 1 :
+Question: This song released on September 29, 1983 and inspired a hit song by Usher was written by who?
+Context:
+"Can't Stop Won't Stop" is a song recorded by American recording artist Usher for his seventh studio album Looking 4 Myself (2012). Written and produced by Will "will.i.am" Adams and Keith Harris, the song contains an interpolation of the bridge to Billy Joel's 1983 hit single "Uptown Girl". Musically, "Can't Stop Won't Stop" is a eurodance and dance-pop song that incorporates elements of dubstep.
+"Uptown Girl" is a song written and performed by American musician Billy Joel. It was released on September 29, 1983, on his ninth studio album An Innocent Man (1983). The lyrics describe a working-class "downtown man" attempting to woo a wealthy "uptown girl."
+
+Answer: Billy Joel
+
+
+
+Example 2 :
+Question: Who was a final round player in the 1920 US Open when to par was +12 who Francis Ouimet beat in the US Open?
+Context:
+In 1913, Ouimet won his first significant title at age 20, the Massachusetts Amateur, an event he won five more times. He participated in the U.S. Amateur at the Garden City Golf Club in Long Island, New York in early September, losing in the quarterfinals to the eventual champion, Jerome Travers. Soon after, he was asked personally by the president of the United States Golf Association, Robert Watson, if he would play in the national professional championship, the 1913 U.S. Open, which had been postponed to mid-September from its original June dates to allow for the participation of British golfers Harry Vardon and Ted Ray, both of Jersey. Vardon had won the U.S. Open in 1900 and The Open Championship five times to that point. Ray had won the Open Championship in 1912. The 1913 event was played at the course Ouimet knew best, The Country Club in Brookline, Massachusetts. Ouimet originally declined to play, having just returned from an absence from work to play in the National Amateur. His participation in the Open was soon arranged, however, with the cooperation of his employer.
+In table of 1920 U.S. Open (golf):
+In row0 : Place is 1, Player is Ted Ray, Score is 74-73-73-75=295, To par is +11, Money ($) is 500.
+In row1 : Place is T2, Player is Jack Burke Sr., Score is 75-77-72-72=296, To par is +12, Money ($) is 188.
+In row2 : Place is T2, Player is Leo Diegel, Score is 72-74-73-77=296, To par is +12, Money ($) is 188.
+In row3 : Place is T2, Player is Jock Hutchison, Country is According to his naturalization certificate (available at Ancestry.com) Hutchinson became a U.S. citizen on April 1, 1920, Score is 69-76-74-77=296, To par is +12, Money ($) is 188.
+In row4 : Place is T2, Player is Harry Vardon, Score is 74-73-71-78=296, To par is +12, Money ($) is 188.
+In row5 : Place is T6, Player is Jim Barnes, Score is 76-70-76-76=298, To par is +14, Money ($) is 90.
+In row6 : Place is T6, Player is Chick Evans (a), Score is 74-76-73-75=298, To par is +14, Money ($) is 0.
+In row7 : Place is T8, Player is Bobby Jones (a), Score is 78-74-70-77=299, To par is +15, Money ($) is 0.
+In row8 : Place is T8, Player is Willie Macfarlane, Score is 76-75-74-74=299, To par is +15, Money ($) is 80.
+In row9 : Place is 10, Player is Bob MacDonald, Score is 73-78-71-78=300, To par is +16, Money ($) is 75.
+Table End.
+
+Answer: Harry Vardon
+

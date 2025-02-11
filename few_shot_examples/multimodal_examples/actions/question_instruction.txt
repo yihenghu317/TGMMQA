@@ -1,0 +1,7 @@
+Instruction: 
+Question: to ask a new question based on existing nodes.
+
+Example: 
+[Node content]: Who is the winner of the 2020 Game? 
+[Type of New Node]: Question
+[Based on]: ['Q0', 'E0', 'E1' ,'A0']

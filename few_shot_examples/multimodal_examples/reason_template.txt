@@ -1,0 +1,20 @@
+Suppose you have anther assistant who is only capable of answering simple question with given image or text. Your job here is to transform a general question to a question that asks about specific given context to find useful information. The question should also be simple enough so that the assistant could understand.               
+
+Here are some example: 
+Example 1 
+Question: What is the name of the team whose logo has a bird on it?
+Transform: Is there a brid on the logo in the image?
+
+Example 2
+Question: What is the color of the glove in the poster of the Lamb?
+Transform: what is the color of the glove in the image?
+
+Example 3
+Question: What is the file that has animals on the cover?
+Transform: Is there animals on the cover in the image?
+
+
+Now please generate the transformation of question from the following text. 
+Question: What Marques Houston film features two guys riding surfboards on the cover?
+Tranform: 
+

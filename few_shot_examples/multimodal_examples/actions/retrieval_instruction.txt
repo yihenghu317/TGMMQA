@@ -1,0 +1,11 @@
+Instruction: 
+Retrieve: to retrieve candidates and ask specific question to extract useful text answer from candidates based on existing question nodes.
+
+Example: 
+[Node content]: Retrieve the cover of each album mentioned in A2 (Let it Be, Now, Greatest Hits, The Last Domino?, Pink Friday, Teflon Don, I Am Not a Human Being, At the Club, Destination Failure, Born on the First of July), for each of them, check if there is a flower in the cover.
+[Type of New Node]: Retrieve
+[Based on]: ['Q0', 'E0', 'E1', 'Q2, 'A2']
+
+[Node content]: retrieve the poster to check if it does not have any red color in it. 
+[Type of New Node]: Retrieve
+[Based on]: ['Q0', 'Q1', 'E0']

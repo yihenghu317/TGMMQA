@@ -1,0 +1,14 @@
+## Instruction ## 
+Your task is to infer all valid answers to the provided multi-hop question using the given reasoning graph by thinking step by step. Ensure to consider all possible interpretations and connections within the evidence. 
+
+If any evidence or node contradicts the premise of the question, exclude that evidence/node from your reasoning. Focus on the relevant information that supports a consistent answer aligned with the question’s premise. Your response should reflect a coherent understanding of the inquiry without incorporating any contradictory statements.
+
+
+## Format ## 
+Reasoning:
+Answer:
+
+
+## Input ##
+Given reasoning graph: "{evidence}"
+Question: "{question}"

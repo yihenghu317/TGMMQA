@@ -1,0 +1,23 @@
+This is the retrieval instruction and content:
+Instruction: "{description}".
+content: "{text}".
+
+The goal is to retrieve information according to instruction. Please extract all the relevant information based on the instruction and rephrase it into a coherent description that serves as a rationale for the instruction. Please provide the source (by title) as well. 
+## Format ##
+Relevant Information: ...
+Title of sources: []
+
+Example:
+Relevant Information: The main color the movies posters are red.
+Title of sources: [Wild Cat, Umbrella]
+
+
+
+If no valid information found, please return "No result found". 
+## Format ##
+Response: No result found
+
+Do not include any explanations or apologies.
+
+
+
